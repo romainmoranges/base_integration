@@ -30,6 +30,17 @@
         <li><a href="#">Je suis un item</a></li>
     </ul>
 </nav>
+<article>
+<h3>Je suis un article :)</h3>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. In, labore veritatis? Reprehenderit quas alias nisi velit, voluptas quibusdam natus dolor. Error natus eius ipsam minus harum tempore unde delectus dolor?</p>
+</article>
+
+<style>
+article {
+    background: aliceblue;
+    font-size:1.6em;
+}
+</style>
 
 <script src="./js/script.js"></script>
 

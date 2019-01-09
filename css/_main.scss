@@ -6,11 +6,11 @@
 }
 
 /* laptop */
-@media screen and (max-width: $medium) {
+@media screen and (min-width: $medium) {
 
 }
 
 /* desktop || TV */
-@media screen and (max-width: $large) {
+@media screen and (min-width: $large) {
 
 }
